@@ -1,0 +1,35 @@
+.card-title {
+  margin: 10px;
+  font-weight: bold;
+}
+
+.cards {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 20px;
+  padding: 3px;
+  width: 75%;
+  display: inline-flex;
+}
+
+.header {
+  border-bottom: 1px solid gray;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+em {
+  font-style: normal;
+  font-size: 50px;
+}
+
+.top {
+  color: rgb(237,191,33);
+  margin-right: 15px;
+}
+.chef {
+  color: gray;
+}
